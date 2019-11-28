@@ -1,3 +1,5 @@
+This repository is a fork of the https://gitlab.com/rilian-la-te/musl-locales
+
 # Locales support for musl
 Locale program for musl libc
 
